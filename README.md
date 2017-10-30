@@ -1,8 +1,10 @@
 # SelfDrivingCarsRepos
 
 
-[LaneLinesFinder](https://github.com/georgosgeorgos/LaneLinesFinder)
+## Term1
 
-[TrafficSignsClassifier](https://github.com/georgosgeorgos/TrafficSignsClassifier)
+* ### [LaneLinesFinder](https://github.com/georgosgeorgos/LaneLinesFinder)
 
-[SteeringAnglePrediction](https://github.com/georgosgeorgos/BehavioralCloning)
+* ### [TrafficSignsClassifier](https://github.com/georgosgeorgos/TrafficSignsClassifier)
+
+* ### [SteeringAnglePredictor](https://github.com/georgosgeorgos/BehavioralCloning)
