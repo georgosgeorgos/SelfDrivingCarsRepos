@@ -8,3 +8,5 @@
 * ### [TrafficSignsClassifier](https://github.com/georgosgeorgos/TrafficSignsClassifier)
 
 * ### [SteeringAnglePredictor](https://github.com/georgosgeorgos/BehavioralCloning)
+
+* ### [AdvLaneLinesFinder](https://github.com/georgosgeorgos/AdvLaneLinesFinder)
