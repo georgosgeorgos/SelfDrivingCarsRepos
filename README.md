@@ -14,3 +14,5 @@
 * ### [SteeringAnglePredictor](https://github.com/georgosgeorgos/BehavioralCloning)
 
 * ### [AdvLaneLinesFinder](https://github.com/georgosgeorgos/AdvLaneLinesFinder)
+
+* ### [VehiclesDetector](https://github.com/georgosgeorgos/VehiclesDetector)
