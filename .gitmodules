@@ -1,0 +1,3 @@
+[submodule "LaneLinesFinder"]
+	path = LaneLinesFinder
+	url = https://github.com/georgosgeorgos/LaneLinesFinder
