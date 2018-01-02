@@ -1,3 +1,6 @@
 [submodule "LaneLinesFinder"]
 	path = LaneLinesFinder
 	url = https://github.com/georgosgeorgos/LaneLinesFinder
+[submodule "TrafficSignsClassifier"]
+	path = TrafficSignsClassifier
+	url = https://github.com/georgosgeorgos/TrafficSignsClassifier
