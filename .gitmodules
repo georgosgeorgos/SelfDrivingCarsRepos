@@ -4,3 +4,6 @@
 [submodule "TrafficSignsClassifier"]
 	path = TrafficSignsClassifier
 	url = https://github.com/georgosgeorgos/TrafficSignsClassifier
+[submodule "BehavioralCloning"]
+	path = BehavioralCloning
+	url = https://github.com/georgosgeorgos/BehavioralCloning
