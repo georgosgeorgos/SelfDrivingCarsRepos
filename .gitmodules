@@ -10,3 +10,6 @@
 [submodule "AdvLaneLinesFinder"]
 	path = AdvLaneLinesFinder
 	url = https://github.com/georgosgeorgos/AdvLaneLinesFinder
+[submodule "VehiclesDetector"]
+	path = VehiclesDetector
+	url = https://github.com/georgosgeorgos/VehiclesDetector
