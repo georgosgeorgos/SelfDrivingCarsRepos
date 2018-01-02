@@ -7,3 +7,6 @@
 [submodule "BehavioralCloning"]
 	path = BehavioralCloning
 	url = https://github.com/georgosgeorgos/BehavioralCloning
+[submodule "AdvLaneLinesFinder"]
+	path = AdvLaneLinesFinder
+	url = https://github.com/georgosgeorgos/AdvLaneLinesFinder
